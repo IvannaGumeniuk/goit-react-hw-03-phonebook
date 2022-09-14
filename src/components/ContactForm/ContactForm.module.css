@@ -1,0 +1,13 @@
+.form{
+    text-align: center;
+}
+
+.name{
+    padding-right: 5px;
+    font-size: 18px;
+}
+
+.input{
+    margin: 10px;
+    width: 50%;
+}
